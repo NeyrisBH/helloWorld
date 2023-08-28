@@ -12,3 +12,17 @@ C:\Users\Neyris\source\repos\helloWorld\helloWorld\obj\Debug\net6.0\refint\hello
 C:\Users\Neyris\source\repos\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.pdb
 C:\Users\Neyris\source\repos\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
 C:\Users\Neyris\source\repos\helloWorld\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.exe
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll

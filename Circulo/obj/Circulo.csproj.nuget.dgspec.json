@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\helloWorld\\helloWorld.csproj": {}
+    "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\Circulo\\Circulo.csproj": {}
   },
   "projects": {
-    "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\helloWorld\\helloWorld.csproj": {
+    "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\Circulo\\Circulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\helloWorld\\helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\Circulo\\Circulo.csproj",
+        "projectName": "Circulo",
+        "projectPath": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\Circulo\\Circulo.csproj",
         "packagesPath": "C:\\Users\\Neyris\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\helloWorld\\obj\\",
+        "outputPath": "D:\\ESTE EQUIPO\\Documents\\GitHub\\C#\\Curso Basico C# - Platzi\\helloWorld\\Circulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neyris\\AppData\\Roaming\\NuGet\\NuGet.Config",

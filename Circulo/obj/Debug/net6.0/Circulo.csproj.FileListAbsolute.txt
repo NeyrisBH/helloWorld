@@ -1,0 +1,14 @@
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\bin\Debug\net6.0\Circulo.exe
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\bin\Debug\net6.0\Circulo.deps.json
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\bin\Debug\net6.0\Circulo.runtimeconfig.json
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\bin\Debug\net6.0\Circulo.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\bin\Debug\net6.0\Circulo.pdb
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfoInputs.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfo.cs
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.csproj.CoreCompileInputs.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\refint\Circulo.dll
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.pdb
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\Circulo.genruntimeconfig.cache
+D:\ESTE EQUIPO\Documents\GitHub\C#\Curso Basico C# - Platzi\helloWorld\Circulo\obj\Debug\net6.0\ref\Circulo.dll
